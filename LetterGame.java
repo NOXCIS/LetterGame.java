@@ -111,7 +111,6 @@ System.out.println("NOX'S LetterGame v1.0");
 
 
         }
-
         private void performAction(int choice){
           switch(choice) {
             case 0:
